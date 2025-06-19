@@ -1,8 +1,8 @@
 ## Product Name: Scanezy
 
-## Prepared by: \[Your Name]
+## Prepared by: \[Dheeraj Tiwari]
 
-## Date: \[Insert Date]
+## Date: \[19/06/2025]
 
 ---
 
